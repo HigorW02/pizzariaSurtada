@@ -11,7 +11,7 @@ document.getElementById('form').addEventListener('submit', function (event) {
         );
 
         // Número de telefone para o qual a mensagem será enviada
-        const numeroWhatsApp = '5581997033290'; // Altere para o número desejado (incluindo código do país)
+        const numeroWhatsApp = '5581997216316'; // Altere para o número desejado (incluindo código do país)
 
         // Gerando o link para o WhatsApp
         const linkWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${mensagem}`;
